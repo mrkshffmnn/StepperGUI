@@ -11,9 +11,11 @@ StepperGUI is a graphical user interface for controlling a two-axis stepper moto
 
 ## Example Images of Implementation:
 GUI Main Screen:
+
 <img src="./images/gui.png" alt="GUI" width="400">
 
 Wiring Diagram of WT32-SC01 and TMC2209 for UART communication:
+
 <img src="./images/wiring.png" alt="wiring diagram" width="400">
   
 
